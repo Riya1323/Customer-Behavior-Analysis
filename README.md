@@ -20,7 +20,7 @@ In this project, I analyzed a dataset of 250,000 customer transactions using Pyt
 ## Actionable Recommendations (My Suggestions)
 
 
-* * **Keep Loyal Customers Happy (VIP & Regular):** We have 43,000+ loyal customers. The company must launch exclusive holiday rewards or gifts to keep them active and stop the Q4 sales drop.
+* **Keep Loyal Customers Happy (VIP & Regular):** We have 43,000+ loyal customers. The company must launch exclusive holiday rewards or gifts to keep them active and stop the Q4 sales drop.
 * **Bring Back New Customers:** Target the ~5,800 low-frequency customers with specific discount codes during festive months to encourage their second purchase.
 * **Product Quality Audit:** Books and Clothing have the highest annual returns (~60k combined). We must review customer feedback to fix product sizing and quality.
 * **Optimize Top Payment Channels:** Credit Card and PayPal drive over 70% of total revenue (~478 Lakhs combined) but also cause the highest returns. We should offer secure checkout incentives on these modes to lower transaction failures or buyer remorse.
